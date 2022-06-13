@@ -1,0 +1,11 @@
+{
+    "name": "alfred-workflow",
+    "description": "a simple alfred-workflow sdk",
+    "author": "chenyang.",
+    "version": "0.0.1",
+    "main": "workflow4.js",
+    "license": "MIT",
+    "scripts": {},
+    "repository": "",
+    "dependencies": {}
+}
